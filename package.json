@@ -2,11 +2,5 @@
   "name": "npm-bug-repo2",
   "version": "0.1.0",
   "main": "index.js",
-  "author": "Aleksei Androsov <doochik@ya.ru>",
-  "files": [
-    "index.js"
-  ],
-  "dependencies": {
-    "circular-buffer": "0.0.6"
-  }
+  "author": "Aleksei Androsov <doochik@ya.ru>"
 }
